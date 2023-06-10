@@ -63,3 +63,10 @@
     <img align="center" alt="vscode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
+
+
+
+
+#### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 ####
+
+<img src="https://profile-counter.glitch.me/{pintohen}/count.svg" alt="AnhellO :: Visitor's Count" />
