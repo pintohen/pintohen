@@ -61,12 +61,18 @@
     <img align="center" alt="intellij ultimate" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img align="center" alt="datagrip" src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" />
     <img align="center" alt="vscode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+</div><br/>
 
 
+<<<<<<< HEAD
 
 
 
 #### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 ####
 
 <img src="https://profile-counter.glitch.me/{pintohen}/count.svg" alt="AnhellO :: Visitor's Count" />
+=======
+> Have been coding for an overall of almost 3 years (started september 2020, until today june 10th 2023) and since I was a kid i became totally obsessed with computers and technology overall.
+> Right now, I am taking Informatics Engineering at ISEP and learning mostly back end, but I can also do front end.
+> Feel free to check out my page :)
+>>>>>>> 10ce3a35503ad6562b79ba1a25ea80bd05e829d4
